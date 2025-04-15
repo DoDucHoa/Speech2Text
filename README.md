@@ -9,7 +9,6 @@ This repository contains a Python application that leverages [OpenAI Whisper](ht
 - **Output Options**: Display the transcription on the GUI or save it to a text file.
 - **GPU Support**: Uses a CUDA-enabled version of PyTorch if available, otherwise falls back to CPU processing.
 - **Performance Metrics**: Measures and displays the processing time for model loading and audio transcription.
-- **Modular Design**: The GUI code is separated into `whisper_gui.py` and imported into `main.py` for clarity and ease of maintenance.
 
 ## Prerequisites
 
